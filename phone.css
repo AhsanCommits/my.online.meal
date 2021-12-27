@@ -1,0 +1,34 @@
+body {
+  background-color: red;
+}
+/* Navigation */
+#navbar {
+  flex-direction: column;
+}
+/* Home Section  */
+#home {
+  height: 370px;
+}
+#home::before {
+  height: 480px;
+}
+#home p {
+  font-size: 13px;
+}
+/* Services section  */
+#services {
+  flex-direction: column;
+}
+/* #services .box {
+} */
+/* Clients section  */
+#clients {
+  overflow: hidden;
+}
+/* Contact Us Section  */
+
+/* Footer */
+/* Utility Classes */
+.h-primary {
+  font-size: 26px;
+}
